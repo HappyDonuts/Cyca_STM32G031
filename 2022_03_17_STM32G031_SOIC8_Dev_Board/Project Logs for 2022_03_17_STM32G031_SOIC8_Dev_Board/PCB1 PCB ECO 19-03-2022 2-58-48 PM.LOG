@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=IC3 Old Footprint=SOT65P210X110-5N New Footprint=SOT95P280X100-5N
+Change Component Comment : Designator=IC3 Old Comment=MIC5365-1.8YC5-TR New Comment=MIC5365-1.8YD5-TR
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "SOT65P210X110-5N"; UniqueID = "\TCOFTLMB" ("\TCOFTLMB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MIC5365-1.8YD5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5365-1.8yd5-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5365-1.8YD5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5365-1.8YD5TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5365-18YD5-TR?qs=U6T8BxXiZAVg0QgzW6KbsQ%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 2PIN
+Add Component: Footprint Not Found 2PIN
+Add Pin To Net: Unknown Pin: Pin CN1-1
+Add Pin To Net: Unknown Pin: Pin CN1-2
+Add Pin To Net: Unknown Pin: Pin CN3-1
+Add Pin To Net: Unknown Pin: Pin CN3-2
+Add Class Member: Failed to add class member : Component CN1 CN_2PIN
+Add Class Member: Failed to add class member : Component CN3 CN_2PIN

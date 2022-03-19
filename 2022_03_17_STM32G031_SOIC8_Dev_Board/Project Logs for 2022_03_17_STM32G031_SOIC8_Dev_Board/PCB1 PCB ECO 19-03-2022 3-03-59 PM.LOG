@@ -1,0 +1,22 @@
+Added Component: Designator=CN1(CN_2PIN)
+Added Component: Designator=CN3(CN_2PIN)
+Added Component: Designator=IC3(SOT95P275X110-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MIC5365-1.8YD5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5365-1.8yd5-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5365-1.8YD5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5365-1.8YD5TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5365-18YD5-TR?qs=U6T8BxXiZAVg0QgzW6KbsQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=VDD Pin=CN1-2
+Added Pin To Net: NetName=PA12 Pin=CN3-1
+Added Pin To Net: NetName=NetCN3_2 Pin=CN3-2
+Added Pin To Net: NetName=5V Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=5V Pin=IC3-3
+Added Pin To Net: NetName=1V8 Pin=IC3-5
+Added Member To Class: ClassName=main Member=Component CN1 CN_2PIN
+Added Member To Class: ClassName=main Member=Component CN3 CN_2PIN
+Added Member To Class: ClassName=main Member=Component IC3 MIC5365-1.8YD5-TR
