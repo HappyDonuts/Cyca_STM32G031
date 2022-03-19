@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Member From Class: ClassName=main Member=LED1
+Removed Member From Class: ClassName=main Member=LED2
+Added Component: Designator=LD1(LEDC2012X85N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150080YS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150080YS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150080YS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080YS75000?qs=LlUlMxKIyB3k0fZGrDMI2w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Yellow"; VariantName = "[No Variations]"
+Added Component: Designator=LD2(LEDC2012X85N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150080YS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150080YS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150080YS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080YS75000?qs=LlUlMxKIyB3k0fZGrDMI2w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LD1-1
+Added Pin To Net: NetName=GND Pin=LD2-1
+Added Pin To Net: NetName=NetLD1_2 Pin=LD1-2
+Added Pin To Net: NetName=NetLD1_2 Pin=R1-2
+Added Net: Name=NetLD1_2
+Added Pin To Net: NetName=NetLD2_2 Pin=LD2-2
+Added Pin To Net: NetName=NetLD2_2 Pin=R2-2
+Added Net: Name=NetLD2_2
+Added Member To Class: ClassName=main Member=Component LD1 150080YS75000_Y
+Added Member To Class: ClassName=main Member=Component LD2 150080YS75000_G
+Added Room: Name=main

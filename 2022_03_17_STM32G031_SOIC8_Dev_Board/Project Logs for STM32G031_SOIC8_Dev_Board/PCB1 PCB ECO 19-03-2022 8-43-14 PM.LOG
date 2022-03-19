@@ -1,0 +1,14 @@
+Added Component: Designator=D1(SOT95P240X110-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/1057/BAT54_SERIES-1868988.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PANJIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BAT54C_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "241-BAT54C_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panjit/BAT54C_R1_00001?qs=sPbYRqrBIVlWgFH05T87cA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1V8 Pin=D1-1
+Added Pin To Net: NetName=3V3 Pin=D1-2
+Added Pin To Net: NetName=5V Pin=D1-3
+Added Member To Class: ClassName=main Member=Component D1 BAT54C_R1_00001
+Added Room: Name=main
