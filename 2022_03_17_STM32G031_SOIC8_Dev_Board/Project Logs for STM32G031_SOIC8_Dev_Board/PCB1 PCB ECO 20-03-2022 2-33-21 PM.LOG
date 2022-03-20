@@ -1,0 +1,16 @@
+Added Component: Designator=Y1(ASEKDV-32.768kHz-LC-T)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.fr/datasheet/2/3/ABRC_S_A0012625913_1-2519507.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ASEKDV-32.768kHz-LC-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-ASEKDV32768KHLCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN1_1 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetCN2_3 Pin=Y1-3
+Added Pin To Net: NetName=NetCN1_1 Pin=Y1-4
+Added Member To Class: ClassName=main Member=Component Y1 ASEKDV-32.768kHz-LC-T
+Added Room: Name=main
