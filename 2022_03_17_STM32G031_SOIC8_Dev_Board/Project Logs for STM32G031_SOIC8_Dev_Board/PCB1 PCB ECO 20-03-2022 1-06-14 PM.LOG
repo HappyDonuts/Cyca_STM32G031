@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=LD2 Old Footprint=LEDC2012X85N New Footprint=LEDC2012X85N_G
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "SOT95P275X110-5N"; UniqueID = "\TCOFTLMB" ("\TCOFTLMB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MIC5365-1.8YD5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5365-1.8yd5-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5365-1.8YD5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5365-1.8YD5TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5365-18YD5-TR?qs=U6T8BxXiZAVg0QgzW6KbsQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.8V/150mA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "830207390509"; UniqueID = "\BDIRZPVZ" ("\BDIRZPVZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/830207390509.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "830207390509"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-830207390509"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830207390509?qs=hd1VzrDQEGhCHFmQl67v7A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Room: Name=main
