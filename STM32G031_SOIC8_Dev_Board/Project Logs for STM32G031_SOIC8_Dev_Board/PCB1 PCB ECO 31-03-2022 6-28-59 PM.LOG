@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=5V Pin=C8-2
+Removed Pin From Net: NetName=5V Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=CN7-6
+Removed Pin From Net: NetName=GND Pin=CN7-7
+Removed Pin From Net: NetName=GND Pin=CN7-8
+Removed Pin From Net: NetName=GND Pin=CN7-9
+Removed Pin From Net: NetName=5V Pin=IC3-1
+Removed Pin From Net: NetName=GND Pin=IC3-2
+Removed Pin From Net: NetName=5V Pin=IC3-3
+Removed Pin From Net: NetName=1V8 Pin=IC3-5
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=NRST Pin=SW1-3
+Removed Pin From Net: NetName=NRST Pin=SW1-4
+Removed Member From Class: ClassName=main Member=SW1
+Change Component Footprint: Designator=D1 Old Footprint=SOT95P240X110-3N New Footprint=DAN217UMTL
+Change Component Footprint: Designator=IC2 Old Footprint=SOT95P275X110-5N New Footprint=SOT65P210X110-5N
+Change Component Footprint: Designator=IC3 Old Footprint=SOT95P275X110-5N New Footprint=SOT95P230X110-3N
+Change Component Footprint: Designator=CN7 Old Footprint=USB307530A New Footprint=USB_B_AE
+Change Component Comment : Designator=CN7 Old Comment=920-E52A2021S10100 New Comment=USB_B_AE
+Change Component Comment : Designator=LD2 Old Comment=150080VS75000_G New Comment=LTST-C171KGKT
+Change Component Comment : Designator=LD1 Old Comment=150080YS75000_Y New Comment=LTST-C171KSKT
+Change Component Comment : Designator=D1 Old Comment=BAT54C_R1_00001 New Comment=RB715UMTL
+Change Component Comment : Designator=IC3 Old Comment=MIC5365-1.8YD5-TR New Comment=AP2120N-1.8TRG1
+Change Component Comment : Designator=IC2 Old Comment=NCP115ASN330T2G New Comment=MIC5365-3.3YC5-TR
+Change component parameters: Designator = "CN7" ("CN7"); Footprint = "USB307530A"; UniqueID = "\DFYZYJGT" ("\DFYZYJGT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOT95P240X110-3N"; UniqueID = "\GQOPRIRZ" ("\GQOPRIRZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1835297"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RB715UMTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "755-RB715UMTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RB715UMTL?qs=HXFqYaX1Q2wTXMfu8QxCQg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "SOT95P275X110-5N"; UniqueID = "\AKHETDOR" ("\AKHETDOR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MIC5365-3.3YC5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5365-3.3yc5-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/268/mic5365-779177.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5365-3.3YC5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5365-3.3YC5TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5365-33YC5-TR?qs=U6T8BxXiZAXvJj%252BPZ%252B301w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3V/150mA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "SOT95P275X110-5N"; UniqueID = "\YCZGQQRJ" ("\YCZGQQRJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "AP2120N-1.8TRG1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ap2120n-1.8trg1/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eefff3041187ea13496cd4a0771f8fec.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP2120N-1.8TRG1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-AP2120N-1.8TRG1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP2120N-18TRG1?qs=x6A8l6qLYDC3T4tUK6BUJA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.8V/150mA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LD1" ("LD1"); Footprint = "LEDC2012X85N_Y"; UniqueID = "\UYXUBVHA" ("\UYXUBVHA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C171KSKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c171kskt/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C171KSKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C171KSKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C171KSKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C171KSKT?qs=llMtm9xcdM0CwR1bByTaUQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Yellow/20mA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LD2" ("LD2"); Footprint = "LEDC2012X85N_G"; UniqueID = "\ROSFHLKH" ("\ROSFHLKH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c171kgkt/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C171KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C171KGKT?qs=j1zysehuyChA38z%2F%252BFfUSw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Green/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=S1(PTS815SJM250SMTRLFS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTS815 SJM 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pts815-sjm-250-smtr-lfs/ck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTS815 SJM 250 SMTR LFS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS815 SJM 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS815SJM250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJM-250-SMTR-LFS?qs=ahcBuItHZ3xKWmfV%2F2E6bA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=CN7-S1
+Added Pin To Net: NetName=GND Pin=CN7-S2
+Added Pin To Net: NetName=GND Pin=CN7-S3
+Added Pin To Net: NetName=GND Pin=CN7-S4
+Added Pin To Net: NetName=GND Pin=IC3-1
+Added Pin To Net: NetName=1V8 Pin=IC3-2
+Added Pin To Net: NetName=3V3 Pin=IC3-3
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=NRST Pin=S1-3
+Added Pin To Net: NetName=NRST Pin=S1-4
+Added Member To Class: ClassName=main Member=Component CN1 CN_2PIN
+Added Member To Class: ClassName=main Member=Component S1 PTS815_SJM_250_SMTR_LFS
+Added Room: Name=main
