@@ -1,0 +1,24 @@
+Added Component: Designator=CN4(CN_10PIN)
+Added Component: Designator=CN5(CN_10PIN)
+Added Pin To Net: NetName=5V Pin=CN4-1
+Added Pin To Net: NetName=GND Pin=CN4-2
+Added Pin To Net: NetName=3V3 Pin=CN4-3
+Added Pin To Net: NetName=GND Pin=CN4-4
+Added Pin To Net: NetName=1V8 Pin=CN4-5
+Added Pin To Net: NetName=GND Pin=CN4-6
+Added Pin To Net: NetName=SWCLK Pin=CN4-7
+Added Pin To Net: NetName=SWDIO Pin=CN4-8
+Added Pin To Net: NetName=PB7 Pin=CN4-9
+Added Pin To Net: NetName=GND Pin=CN4-10
+Added Pin To Net: NetName=5V Pin=CN5-1
+Added Pin To Net: NetName=GND Pin=CN5-2
+Added Pin To Net: NetName=3V3 Pin=CN5-3
+Added Pin To Net: NetName=GND Pin=CN5-4
+Added Pin To Net: NetName=1V8 Pin=CN5-5
+Added Pin To Net: NetName=GND Pin=CN5-6
+Added Pin To Net: NetName=PA12 Pin=CN5-7
+Added Pin To Net: NetName=PA8 Pin=CN5-8
+Added Pin To Net: NetName=NRST Pin=CN5-9
+Added Pin To Net: NetName=GND Pin=CN5-10
+Added Member To Class: ClassName=main Member=Component CN4 CN_10PIN
+Added Member To Class: ClassName=main Member=Component CN5 CN_10PIN

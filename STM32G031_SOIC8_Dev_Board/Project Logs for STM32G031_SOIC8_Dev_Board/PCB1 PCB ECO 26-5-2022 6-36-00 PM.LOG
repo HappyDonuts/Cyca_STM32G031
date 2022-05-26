@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=SWCLK Pin=CN4-6
+Removed Pin From Net: NetName=SWDIO Pin=CN4-7
+Removed Pin From Net: NetName=PB7 Pin=CN4-8
+Removed Pin From Net: NetName=PA12 Pin=CN5-6
+Removed Pin From Net: NetName=PA8 Pin=CN5-7
+Removed Pin From Net: NetName=NRST Pin=CN5-8
+Change Component Footprint: Designator=CN4 Old Footprint=CN_8PIN New Footprint=CN_10PIN
+Change Component Footprint: Designator=CN5 Old Footprint=CN_8PIN New Footprint=CN_10PIN
+Change Component Comment : Designator=CN4 Old Comment=CN_8PIN New Comment=CN_10PIN
+Change Component Comment : Designator=CN5 Old Comment=CN_8PIN New Comment=CN_10PIN
+Added Pin To Net: NetName=GND Pin=CN4-6
+Added Pin To Net: NetName=SWCLK Pin=CN4-7
+Added Pin To Net: NetName=SWDIO Pin=CN4-8
+Added Pin To Net: NetName=SWDIO Pin=CN4-8
+Added Pin To Net: NetName=SWDIO Pin=CN4-8
+Add Pin To Net: Unknown Pin: Pin CN4-9
+Add Pin To Net: Unknown Pin: Pin CN4-10
+Added Pin To Net: NetName=GND Pin=CN5-6
+Added Pin To Net: NetName=PA12 Pin=CN5-7
+Added Pin To Net: NetName=PA8 Pin=CN5-8
+Added Pin To Net: NetName=PA8 Pin=CN5-8
+Added Pin To Net: NetName=PA8 Pin=CN5-8
+Add Pin To Net: Unknown Pin: Pin CN5-9
+Add Pin To Net: Unknown Pin: Pin CN5-10
+Added Room: Name=main
