@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=3V3 Pin=C9-2
+Removed Pin From Net: NetName=3V3 Pin=IC3-3
+Change Component Comment : Designator=IC2 Old Comment=MIC5365-3.3YC5-TR New Comment=MIC5366-3.3YC5-TR
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "SOT65P210X110-5N"; UniqueID = "\GTSTEFTW" ("\GTSTEFTW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MIC5365-3.3YC5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5365-3.3yc5-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.fr/datasheet/2/268/MIC5365_6_High_Performance_Single_150mA_LDO_DS2000-2826882.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5366-3.3YC5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5366-3.3YC5TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5365-33YC5-TR?qs=U6T8BxXiZAXvJj%252BPZ%252B301w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3V/150mA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=5V Pin=IC3-3
+Added Room: Name=main
